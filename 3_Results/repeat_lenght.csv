@@ -1,0 +1,521 @@
+species,mean,min,max,range,distribution
+2_Myotis_lucifugus,10.423529411764706,10,14,4,"17
+10    0.676471
+11    0.247059
+12    0.058824
+13    0.011765
+14    0.005882
+Name: proportion, dtype: float64"
+3_Myotis_brandtii,10.480263157894736,10,14,4,"353
+10    0.684211
+11    0.203947
+12    0.072368
+13    0.026316
+14    0.013158
+Name: proportion, dtype: float64"
+4_Myotis_ikonnikovi,10.35377358490566,10,13,3,"225
+10    0.731132
+11    0.207547
+12    0.037736
+13    0.023585
+Name: proportion, dtype: float64"
+5_Myotis_muricola,10.382857142857143,10,13,3,"14
+10    0.725714
+11    0.182857
+12    0.074286
+13    0.017143
+Name: proportion, dtype: float64"
+6_Myotis_macrodactylus,10.351648351648352,10,14,4,"658
+10    0.752747
+11    0.186813
+12    0.032967
+13    0.010989
+14    0.016484
+Name: proportion, dtype: float64"
+7_Myotis_davidii,10.44943820224719,10,15,5,"16
+10    0.696629
+11    0.202247
+12    0.067416
+13    0.028090
+15    0.005618
+Name: proportion, dtype: float64"
+8_Myotis_formosus,10.390374331550802,10,15,5,"15
+10    0.721925
+11    0.203209
+12    0.053476
+13    0.010695
+14    0.005348
+15    0.005348
+Name: proportion, dtype: float64"
+9_Myotis_bombinus,10.4375,10,14,4,"243
+10    0.721154
+11    0.163462
+12    0.086538
+13    0.014423
+14    0.014423
+Name: proportion, dtype: float64"
+10_Myotis_petax,10.333333333333334,10,13,3,"353
+10    0.742857
+11    0.185714
+12    0.066667
+13    0.004762
+Name: proportion, dtype: float64"
+11_Rhinolophus_pumilus,10.402298850574713,10,14,4,"14
+10    0.718391
+11    0.195402
+12    0.063218
+13    0.011494
+14    0.011494
+Name: proportion, dtype: float64"
+12_Rhinolophus_monoceros,10.5,10,13,3,"15
+10    0.676056
+11    0.183099
+12    0.105634
+13    0.035211
+Name: proportion, dtype: float64"
+13_Rhinolophus_rex,10.401197604790418,10,13,3,"194
+10    0.706587
+11    0.197605
+12    0.083832
+13    0.011976
+Name: proportion, dtype: float64"
+14_Rhinolophus_macrotis,10.431034482758621,10,13,3,"13
+10    0.695402
+11    0.195402
+12    0.091954
+13    0.017241
+Name: proportion, dtype: float64"
+15_Rhinolophus_luctus,10.406976744186046,10,13,3,"14
+10    0.720930
+11    0.180233
+12    0.069767
+13    0.029070
+Name: proportion, dtype: float64"
+16_Rhinolophus_formosae,10.486301369863014,10,19,9,"232
+10    0.664384
+11    0.253425
+12    0.054795
+13    0.020548
+19    0.006849
+Name: proportion, dtype: float64"
+17_Rhinolophus_ferrumequinum_korai,10.447552447552448,10,13,3,"14
+10    0.692308
+11    0.188811
+12    0.097902
+13    0.020979
+Name: proportion, dtype: float64"
+18_Rhinolophus_ferrumequinum_quelpartis,10.462068965517242,10,13,3,"14
+10    0.682759
+11    0.193103
+12    0.103448
+13    0.020690
+Name: proportion, dtype: float64"
+19_Pteropus_alecto,10.445378151260504,10,16,6,"242
+10    0.697479
+11    0.218487
+12    0.058824
+13    0.008403
+14    0.008403
+16    0.008403
+Name: proportion, dtype: float64"
+20_Pteropus_scapulatus,10.29940119760479,10,13,3,"243
+10    0.772455
+11    0.173653
+12    0.035928
+13    0.017964
+Name: proportion, dtype: float64"
+21_Pteropus_dasymallus,10.34965034965035,10,13,3,"194
+10    0.755245
+11    0.160839
+12    0.062937
+13    0.020979
+Name: proportion, dtype: float64"
+22_Pteropus_vampyrus,10.333333333333334,10,13,3,"44
+10    0.756098
+11    0.162602
+12    0.073171
+13    0.008130
+Name: proportion, dtype: float64"
+23_Plecotus_rafinesquii,10.366666666666667,10,13,3,"15
+10    0.746667
+11    0.146667
+12    0.100000
+13    0.006667
+Name: proportion, dtype: float64"
+24_Plecotus_auritus,10.380645161290323,10,13,3,"14
+10    0.703226
+11    0.219355
+12    0.070968
+13    0.006452
+Name: proportion, dtype: float64"
+25_Plecotus_macrobullaris,10.32934131736527,10,14,4,"120
+10    0.736527
+11    0.215569
+12    0.035928
+13    0.005988
+14    0.005988
+Name: proportion, dtype: float64"
+26_Desmodus_rotundus,10.39080459770115,10,14,4,"14
+10    0.735632
+11    0.189655
+12    0.034483
+13    0.028736
+14    0.011494
+Name: proportion, dtype: float64"
+27_Rousettus_aegyptiacus,10.446043165467627,10,15,5,"269
+10    0.719424
+11    0.201439
+12    0.035971
+13    0.007194
+14    0.028777
+15    0.007194
+Name: proportion, dtype: float64"
+28_Eptesicus_serotinus,12.5875,10,347,337,"367
+10     0.66875
+11     0.24375
+12     0.04375
+13     0.02500
+15     0.00625
+17     0.00625
+347    0.00625
+Name: proportion, dtype: float64"
+29_Artibeus_jamaicensis,10.371794871794872,10,13,3,"15
+10    0.698718
+11    0.250000
+12    0.032051
+13    0.019231
+Name: proportion, dtype: float64"
+30_Artibeus_lituratus,10.384615384615385,10,13,3,"14
+10    0.704142
+11    0.224852
+12    0.053254
+13    0.017751
+Name: proportion, dtype: float64"
+31_Carollia_perspicillata,10.372549019607844,10,13,3,"13
+10    0.745098
+11    0.163399
+12    0.065359
+13    0.026144
+Name: proportion, dtype: float64"
+32_Pipistrellus_abramus,10.4,10,15,5,"153
+10    0.712821
+11    0.210256
+12    0.051282
+13    0.020513
+15    0.005128
+Name: proportion, dtype: float64"
+33_Pipistrellus_coromandra,10.454054054054055,10,15,5,"15
+10    0.691892
+11    0.200000
+12    0.086486
+13    0.010811
+14    0.005405
+15    0.005405
+Name: proportion, dtype: float64"
+34_Nyctalus_noctula,10.330769230769231,10,13,3,"425
+10    0.769231
+11    0.146154
+12    0.069231
+13    0.015385
+Name: proportion, dtype: float64"
+35_Vespertilio_sinensis,11.056818181818182,10,119,109,"275
+10     0.710227
+11     0.204545
+12     0.045455
+13     0.011364
+14     0.017045
+17     0.005682
+119    0.005682
+Name: proportion, dtype: float64"
+36_Lasiurus_borealis,10.36413043478261,10,13,3,"13
+10    0.722826
+11    0.206522
+12    0.054348
+13    0.016304
+Name: proportion, dtype: float64"
+37_Hipposideros_armiger,10.425925925925926,10,13,3,"13
+10    0.685185
+11    0.228395
+12    0.061728
+13    0.024691
+Name: proportion, dtype: float64"
+38_Sturnira_tildae,10.566666666666666,10,18,8,"18
+10    0.695238
+11    0.200000
+12    0.057143
+13    0.023810
+17    0.009524
+18    0.014286
+Name: proportion, dtype: float64"
+39_Cynopterus_brachyotis,10.366666666666667,10,13,3,"265
+10    0.691667
+11    0.258333
+12    0.041667
+13    0.008333
+Name: proportion, dtype: float64"
+40_Epomophorus_gambianus,10.342857142857143,10,14,4,"14
+10    0.757143
+11    0.164286
+12    0.064286
+13    0.007143
+14    0.007143
+Name: proportion, dtype: float64"
+41_Anoura_caudifer,10.624242424242425,10,16,6,"17
+10    0.581818
+11    0.290909
+12    0.078788
+13    0.030303
+14    0.012121
+16    0.006061
+Name: proportion, dtype: float64"
+42_Mystacina_tuberculata,10.379562043795621,10,13,3,"303
+10    0.715328
+11    0.218978
+12    0.036496
+13    0.029197
+Name: proportion, dtype: float64"
+43_Anoura_geoffroyi_voucher,10.39375,10,13,3,"14
+10    0.75000
+11    0.13750
+12    0.08125
+13    0.03125
+Name: proportion, dtype: float64"
+44_Lasionycteris_noctivagaris,10.297560975609755,10,13,3,"14
+10    0.775610
+11    0.160976
+12    0.053659
+13    0.009756
+Name: proportion, dtype: float64"
+45_Leptonycteris_curasoae,10.340909090909092,10,14,4,"16
+10    0.719697
+11    0.234848
+12    0.037879
+14    0.007576
+Name: proportion, dtype: float64"
+46_Macroderma_gigas,10.45138888888889,10,15,5,"167
+10    0.673611
+11    0.250000
+12    0.041667
+13    0.027778
+15    0.006944
+Name: proportion, dtype: float64"
+47_Macrotus_californicus,10.368421052631579,10,12,2,"14
+10    0.703947
+11    0.223684
+12    0.072368
+Name: proportion, dtype: float64"
+48_Macrotus_waterhousii,10.494117647058824,10,17,7,"215
+10    0.664706
+11    0.235294
+12    0.076471
+13    0.005882
+14    0.011765
+17    0.005882
+Name: proportion, dtype: float64"
+49_Molossus_molossus,10.437158469945356,10,16,6,"183
+10    0.699454
+11    0.229508
+12    0.038251
+13    0.016393
+14    0.005464
+15    0.005464
+16    0.005464
+Name: proportion, dtype: float64"
+50_Myotis_bechsteinii,10.452488687782806,10,14,4,"242
+10    0.692308
+11    0.208145
+12    0.067873
+13    0.018100
+14    0.013575
+Name: proportion, dtype: float64"
+51_Myotis_blythii,10.716417910447761,10,56,46,"57
+10    0.691542
+11    0.184080
+12    0.079602
+13    0.029851
+15    0.004975
+16    0.004975
+56    0.004975
+Name: proportion, dtype: float64"
+52_Myotis_evotis,10.37012987012987,10,13,3,"224
+10    0.714286
+11    0.214286
+12    0.058442
+13    0.012987
+Name: proportion, dtype: float64"
+53_Myotis_leibii,10.422857142857143,10,13,3,"14
+10    0.708571
+11    0.188571
+12    0.074286
+13    0.028571
+Name: proportion, dtype: float64"
+54_Antrozous_pallidus,10.43558282208589,10,13,3,"17
+10    0.717791
+11    0.165644
+12    0.079755
+13    0.036810
+Name: proportion, dtype: float64"
+55_Myotis_nigricans,10.378378378378379,10,14,4,"239
+10    0.702703
+11    0.243243
+12    0.032432
+13    0.016216
+14    0.005405
+Name: proportion, dtype: float64"
+56_Myotis_thysanodes,10.406060606060606,10,13,3,"215
+10    0.703030
+11    0.206061
+12    0.072727
+13    0.018182
+Name: proportion, dtype: float64"
+57_Myotis_volans,10.441717791411042,10,13,3,"13
+10    0.668712
+11    0.233129
+12    0.085890
+13    0.012270
+Name: proportion, dtype: float64"
+58_Myotis_yumanensis,11.683870967741935,10,200,190,"347
+10     0.658065
+11     0.238710
+12     0.070968
+13     0.025806
+200    0.006452
+Name: proportion, dtype: float64"
+59_Noctilii_leporinus,10.373333333333333,10,14,4,"160
+10    0.726667
+11    0.193333
+12    0.066667
+13    0.006667
+14    0.006667
+Name: proportion, dtype: float64"
+60_Phyllostomus_discolor,10.331210191082803,10,13,3,"16
+10    0.738854
+11    0.210191
+12    0.031847
+13    0.019108
+Name: proportion, dtype: float64"
+61_Pipistrellus_kuhlii,10.377777777777778,10,14,4,"15
+10    0.711111
+11    0.222222
+12    0.051852
+13    0.007407
+14    0.007407
+Name: proportion, dtype: float64"
+62_Pipistrellus_pipistrellus,10.457516339869281,10,14,4,"200
+10    0.653595
+11    0.261438
+12    0.065359
+13    0.013072
+14    0.006536
+Name: proportion, dtype: float64"
+63_Platyrrhinus_lineatus,10.43646408839779,10,15,5,"15
+10    0.701657
+11    0.198895
+12    0.077348
+13    0.011050
+14    0.005525
+15    0.005525
+Name: proportion, dtype: float64"
+64_Rousettus_lanosus,10.381294964028777,10,13,3,"14
+10    0.705036
+11    0.223022
+12    0.057554
+13    0.014388
+Name: proportion, dtype: float64"
+65_Corynorhinus_townsendii,10.414285714285715,10,13,3,"53
+10    0.685714
+11    0.221429
+12    0.085714
+13    0.007143
+Name: proportion, dtype: float64"
+66_Rousettus_leschenaultii,10.324561403508772,10,13,3,"14
+10    0.771930
+11    0.149123
+12    0.061404
+13    0.017544
+Name: proportion, dtype: float64"
+67_Saccopteryx_bilineata,10.299319727891156,10,12,2,"13
+10    0.77551
+11    0.14966
+12    0.07483
+Name: proportion, dtype: float64"
+68_Tadarida_brasiliensis,10.376344086021506,10,13,3,"13
+10    0.715054
+11    0.204301
+12    0.069892
+13    0.010753
+Name: proportion, dtype: float64"
+69_Tadarida_teniotis,10.431693989071038,10,13,3,"14
+10    0.650273
+11    0.295082
+12    0.027322
+13    0.027322
+Name: proportion, dtype: float64"
+70_Vespertilio_murinus,10.467948717948717,10,13,3,"176
+10    0.660256
+11    0.237179
+12    0.076923
+13    0.025641
+Name: proportion, dtype: float64"
+71_Cynopterus_sphinx,10.393700787401574,10,15,5,"373
+10    0.708661
+11    0.236220
+12    0.031496
+13    0.007874
+14    0.007874
+15    0.007874
+Name: proportion, dtype: float64"
+72_Diphylla_ecaudata,10.354651162790697,10,14,4,"109
+10    0.726744
+11    0.209302
+12    0.052326
+13    0.005814
+14    0.005814
+Name: proportion, dtype: float64"
+73_Eidolon_helvum,10.368,10,13,3,"248
+10    0.744
+11    0.160
+12    0.080
+13    0.016
+Name: proportion, dtype: float64"
+74_Epomophorus_wahlbergi,10.416666666666666,10,13,3,"14
+10    0.727273
+11    0.174242
+12    0.053030
+13    0.045455
+Name: proportion, dtype: float64"
+75_Eptesicus_nilssonii,10.369426751592357,10,14,4,"329
+10    0.738854
+11    0.178344
+12    0.063694
+13    0.012739
+14    0.006369
+Name: proportion, dtype: float64"
+76_Glossophaga_soricina,10.326797385620916,10,13,3,"13
+10    0.738562
+11    0.202614
+12    0.052288
+13    0.006536
+Name: proportion, dtype: float64"
+77_Eptesicus_fuscus,10.913875598086124,10,20,10,"21
+10    0.717703
+11    0.133971
+12    0.066986
+13    0.019139
+16    0.004785
+18    0.004785
+19    0.004785
+20    0.047847
+Name: proportion, dtype: float64"
+78_Anoura_geoffroyi,10.39375,10,13,3,"14
+10    0.75000
+11    0.13750
+12    0.08125
+13    0.03125
+Name: proportion, dtype: float64"
+1_Myotis_myotis,10.350574712643677,10,13,3,"16
+10    0.752874
+11    0.160920
+12    0.068966
+13    0.017241
+Name: proportion, dtype: float64"
